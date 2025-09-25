@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-// Full sample dataset extracted from the original dataset for demonstration
+
 const data = {
   APAC: {
     Australia: {
